@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/skynetservices/skydns/msg"
+	"github.com/fabware/skydns/msg"
 )
 
 // Interface to allow mocking of the

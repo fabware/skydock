@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 	"github.com/crosbymichael/log"
-	"github.com/crosbymichael/skydock/docker"
-	"github.com/crosbymichael/skydock/utils"
-	"github.com/robertkrimen/otto"
-	"github.com/skynetservices/skydns/msg"
+	"github.com/fabware/otto"
+	"github.com/fabware/skydns/msg"
+	"github.com/fabware/skydock/docker"
+	"github.com/fabware/skydock/utils"
 	"io/ioutil"
 )
 
